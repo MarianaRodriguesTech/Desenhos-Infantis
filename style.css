@@ -39,7 +39,7 @@ main{
     margin: 0 auto;
     padding: 0 15px;
     /* animação */
-    animation: surgir 4s ease;
+    animation: surgir 8s ease;
     animation-timeline: view(3);
     animation-range: cover 0% cover 40%;
 }
